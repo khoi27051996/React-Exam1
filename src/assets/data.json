@@ -1,0 +1,38 @@
+[
+    {
+       "id" : 1,
+       "icon" : "fa-solid fa-wifi bg-primary rounded-pill",
+       "title" : "Kết Nối",
+       "content": "With Bootstrap 5, we've created a fresh new layout for this template!"
+    },
+    {
+        "id" : 2,
+        "icon" : "fa-solid fa-cloud-arrow-down bg-primary rounded-pill",
+        "title" : "Download",
+        "content": "As always, Start Bootstrap has a powerful collectin of free templates!"
+     },
+     {
+      "id" : 3,
+      "icon" : "fa-solid fa-address-card bg-primary rounded-pill",
+      "title" : "Jumbotron hero header",
+      "content": "The heroic part of this template is the jumbotron hero header!"
+   },
+   {
+      "id" : 4,
+      "icon" : "fa-brands fa-bootstrap bg-primary rounded-pill",
+      "title" : "Feature boxes",
+      "content": "We've created some custom feature boxes using Bootstrap icons!"
+   },
+   {
+      "id" : 5,
+      "icon" : "fa-solid fa-code bg-primary rounded-pill",
+      "title" : "Simple clean code",
+      "content": "We keep our dependencies up to date and squash bugs as they come!"
+   },
+   {
+      "id" : 6,
+      "icon" : "fa-solid fa-circle-check bg-primary rounded-pill",
+      "title" : "A name you trust",
+      "content": "Start Bootstrap has been the leader in free Bootstrap templates since 2023!"
+   }
+]
